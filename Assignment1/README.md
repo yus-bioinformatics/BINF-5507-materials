@@ -1,0 +1,1 @@
+# The goal of this assignment is to clean a messy dataset and build a logistic regression model to classify the target variable. The assignment involves handling missing data, removing duplicates and redundant features, normalization, and model evaluation.
