@@ -1,0 +1,1 @@
+the is the script and data for assignment 2 for practicing how to Train and evaluate machine learning models for regression and classification tasks as well as Visualize and interpret hyperparameter effects
