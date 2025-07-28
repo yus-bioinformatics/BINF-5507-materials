@@ -1,0 +1,1 @@
+This is the script for Evaluation and Comparison of GMM with K-Means clustering.
